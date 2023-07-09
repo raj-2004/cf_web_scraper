@@ -3,8 +3,8 @@ To scrape a site for all cp problems and their submissions
 
 The repository reflects my attempt to do two simple things:
 <ol>
-  <li>Get a list of all problems of any rating and store all the data directly in .xlsx format to be made available to utilise in a user-friendly way</li>
-  <li>Get a list of all problems of any rating, the submissions made by friend and store all the data directly in .xlsx format </li>
+  <li><b>friend_problem_lists:</b> Get a list of all problems of any rating and store all the data directly in .xlsx format to be made available to utilise in a user-friendly way</li>
+  <li><b>problem_table maker:</b> Get a list of all problems of any rating, the submissions made by friend and store all the data directly in .xlsx format </li>
 </ol>
 
 <b>Purpose:</b><br>
